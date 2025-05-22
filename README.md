@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 Habilidades Técnicas
+
 
 ## 🧠 Habilidades Técnicas
 
