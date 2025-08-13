@@ -39,11 +39,6 @@
 
 ---
 
-## 🌱 Actualmente aprendiendo
-
-- Especialización en Machine Learning — *Coursera* (Stanford, Deeplearning.AI)
-- Proximo a iniciar maestria en ciencia de datos
----
 
 ## 📫 Conéctate conmigo
 
