@@ -1,7 +1,7 @@
 # 👋 Hola, soy Andrés Araque
 
-🎓 Ingeniero Electrónico egresado de la Universidad Industrial de Santander apasionado por el **Machine Learning**, la **Ciencia de Datos** 
-
+🎓 Ingeniero Electrónico egresado de la Universidad Industrial y estudiante de Maestría en Ciencia de Datos en la Escuela Colombiana de Ingeniería Julio Garavito de Santander apasionado por el **Machine Learning**, la **Ciencia de Datos** 
+ 
 ---
 
 ## 🚀 Sobre mí
